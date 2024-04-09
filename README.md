@@ -9,6 +9,6 @@ https://doi.org/10.1145/3624733
 
 Via 4 narrative artifacts:
 1. A short story paper with a summary of the main scientific details within the article.
-2. A (medium article)[https://medium.com/@alexyszam/how-do-contemporary-fashion-recommendation-systems-work-e9367acb07e0] that reframes the short story in a more casual tone with the gist of the article.
+2. A [medium article](https://medium.com/@alexyszam/how-do-contemporary-fashion-recommendation-systems-work-e9367acb07e0) that reframes the short story in a more casual tone with the gist of the article.
 3. A slide-deck containing the key points of the short story, including the scientific details. 
 4. A video presentation of the slide-deck.
